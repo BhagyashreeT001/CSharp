@@ -1,0 +1,7 @@
+F:\Zensar\Demo\bin\Debug\Demo.exe.config
+F:\Zensar\Demo\bin\Debug\Demo.exe
+F:\Zensar\Demo\bin\Debug\Demo.pdb
+F:\Zensar\Demo\obj\Debug\Demo.csproj.AssemblyReference.cache
+F:\Zensar\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+F:\Zensar\Demo\obj\Debug\Demo.exe
+F:\Zensar\Demo\obj\Debug\Demo.pdb
