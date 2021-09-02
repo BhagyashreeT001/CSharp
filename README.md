@@ -1,2 +1,1 @@
-ThinkQuotient
 CSharp
