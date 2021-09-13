@@ -1,0 +1,6 @@
+F:\Zensar\CSharp\Day_Q16\bin\Debug\Day_Q16.exe.config
+F:\Zensar\CSharp\Day_Q16\bin\Debug\Day_Q16.exe
+F:\Zensar\CSharp\Day_Q16\bin\Debug\Day_Q16.pdb
+F:\Zensar\CSharp\Day_Q16\obj\Debug\Day_Q16.csproj.CoreCompileInputs.cache
+F:\Zensar\CSharp\Day_Q16\obj\Debug\Day_Q16.exe
+F:\Zensar\CSharp\Day_Q16\obj\Debug\Day_Q16.pdb
