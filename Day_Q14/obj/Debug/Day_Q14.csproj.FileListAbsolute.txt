@@ -1,0 +1,7 @@
+F:\Zensar\CSharp\Day_Q14\bin\Debug\Day_Q14.exe.config
+F:\Zensar\CSharp\Day_Q14\bin\Debug\Day_Q14.exe
+F:\Zensar\CSharp\Day_Q14\bin\Debug\Day_Q14.pdb
+F:\Zensar\CSharp\Day_Q14\obj\Debug\Day_Q14.csproj.AssemblyReference.cache
+F:\Zensar\CSharp\Day_Q14\obj\Debug\Day_Q14.csproj.CoreCompileInputs.cache
+F:\Zensar\CSharp\Day_Q14\obj\Debug\Day_Q14.exe
+F:\Zensar\CSharp\Day_Q14\obj\Debug\Day_Q14.pdb
